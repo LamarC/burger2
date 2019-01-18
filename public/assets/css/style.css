@@ -1,0 +1,31 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    margin: auto 0;
+    margin-left: 20%;
+    margin-bottom: rem;
+    margin-top: 2rem;
+}
+
+#avail {
+    float: left;
+    margin-right: 12%;
+    margin-left: 18%;
+}
+
+#devoured {
+    float: left;
+
+}
+
+li {
+    font-size: 20px;
+    list-style-type: none;
+}
+
+
+#add {
+    clear: both;
+}
